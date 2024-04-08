@@ -1,0 +1,14 @@
+C:\Users\Jarryd\source\repos\UserManagement.Core\bin\Debug\net8.0\UserManagement.Core.deps.json
+C:\Users\Jarryd\source\repos\UserManagement.Core\bin\Debug\net8.0\UserManagement.Core.runtimeconfig.json
+C:\Users\Jarryd\source\repos\UserManagement.Core\bin\Debug\net8.0\UserManagement.Core.dll
+C:\Users\Jarryd\source\repos\UserManagement.Core\bin\Debug\net8.0\UserManagement.Core.pdb
+C:\Users\Jarryd\source\repos\UserManagement.Core\obj\Debug\net8.0\UserManagement.Core.csproj.AssemblyReference.cache
+C:\Users\Jarryd\source\repos\UserManagement.Core\obj\Debug\net8.0\UserManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarryd\source\repos\UserManagement.Core\obj\Debug\net8.0\UserManagement.Core.AssemblyInfoInputs.cache
+C:\Users\Jarryd\source\repos\UserManagement.Core\obj\Debug\net8.0\UserManagement.Core.AssemblyInfo.cs
+C:\Users\Jarryd\source\repos\UserManagement.Core\obj\Debug\net8.0\UserManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\Jarryd\source\repos\UserManagement.Core\obj\Debug\net8.0\UserManagement.Core.dll
+C:\Users\Jarryd\source\repos\UserManagement.Core\obj\Debug\net8.0\refint\UserManagement.Core.dll
+C:\Users\Jarryd\source\repos\UserManagement.Core\obj\Debug\net8.0\UserManagement.Core.pdb
+C:\Users\Jarryd\source\repos\UserManagement.Core\obj\Debug\net8.0\UserManagement.Core.genruntimeconfig.cache
+C:\Users\Jarryd\source\repos\UserManagement.Core\obj\Debug\net8.0\ref\UserManagement.Core.dll
