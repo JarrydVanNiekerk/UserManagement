@@ -1,0 +1,17 @@
+C:\Users\Jarryd\source\repos\UserManagement.Services\bin\Debug\net8.0\UserManagement.Services.deps.json
+C:\Users\Jarryd\source\repos\UserManagement.Services\bin\Debug\net8.0\UserManagement.Services.dll
+C:\Users\Jarryd\source\repos\UserManagement.Services\bin\Debug\net8.0\UserManagement.Services.pdb
+C:\Users\Jarryd\source\repos\UserManagement.Services\bin\Debug\net8.0\UserManagement.Core.dll
+C:\Users\Jarryd\source\repos\UserManagement.Services\bin\Debug\net8.0\UserManagement.Repository.dll
+C:\Users\Jarryd\source\repos\UserManagement.Services\bin\Debug\net8.0\UserManagement.Repository.pdb
+C:\Users\Jarryd\source\repos\UserManagement.Services\bin\Debug\net8.0\UserManagement.Core.pdb
+C:\Users\Jarryd\source\repos\UserManagement.Services\obj\Debug\net8.0\UserManagement.Services.csproj.AssemblyReference.cache
+C:\Users\Jarryd\source\repos\UserManagement.Services\obj\Debug\net8.0\UserManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarryd\source\repos\UserManagement.Services\obj\Debug\net8.0\UserManagement.Services.AssemblyInfoInputs.cache
+C:\Users\Jarryd\source\repos\UserManagement.Services\obj\Debug\net8.0\UserManagement.Services.AssemblyInfo.cs
+C:\Users\Jarryd\source\repos\UserManagement.Services\obj\Debug\net8.0\UserManagement.Services.csproj.CoreCompileInputs.cache
+C:\Users\Jarryd\source\repos\UserManagement.Services\obj\Debug\net8.0\UserManagement.Services.csproj.CopyComplete
+C:\Users\Jarryd\source\repos\UserManagement.Services\obj\Debug\net8.0\UserManagement.Services.dll
+C:\Users\Jarryd\source\repos\UserManagement.Services\obj\Debug\net8.0\refint\UserManagement.Services.dll
+C:\Users\Jarryd\source\repos\UserManagement.Services\obj\Debug\net8.0\UserManagement.Services.pdb
+C:\Users\Jarryd\source\repos\UserManagement.Services\obj\Debug\net8.0\ref\UserManagement.Services.dll
